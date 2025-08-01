@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "3i6Aw1pJKdkegWHCwVTluCeM76Wz0vWM0ehREjUFHiE=",
+  "Source": "APIdangkyvadangnhap",
+  "BasePath": "_content/APIdangkyvadangnhap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIdangkyvadangnhap\\wwwroot",
+      "Source": "APIdangkyvadangnhap",
+      "ContentRoot": "E:\\Nhom-2\\backend\\wwwroot\\",
+      "BasePath": "_content/APIdangkyvadangnhap",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Nhom-2\\backend\\wwwroot\\uploads\\test.jpg",
+      "SourceId": "APIdangkyvadangnhap",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Nhom-2\\backend\\wwwroot\\",
+      "BasePath": "_content/APIdangkyvadangnhap",
+      "RelativePath": "uploads/test.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\test.jpg"
+    },
+    {
+      "Identity": "E:\\Nhom-2\\backend\\wwwroot\\uploads\\Unit review - English for IT with key.pdf",
+      "SourceId": "APIdangkyvadangnhap",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Nhom-2\\backend\\wwwroot\\",
+      "BasePath": "_content/APIdangkyvadangnhap",
+      "RelativePath": "uploads/Unit review - English for IT with key.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Unit review - English for IT with key.pdf"
+    }
+  ]
+}

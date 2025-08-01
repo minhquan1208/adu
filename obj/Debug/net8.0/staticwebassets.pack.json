@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Nhom-2\\backend\\wwwroot\\uploads\\Unit review - English for IT with key.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Unit review - English for IT with key.pdf"
+    },
+    {
+      "Id": "E:\\Nhom-2\\backend\\wwwroot\\uploads\\test.jpg",
+      "PackagePath": "staticwebassets\\uploads\\test.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APIdangkyvadangnhap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APIdangkyvadangnhap.props",
+      "PackagePath": "build\\APIdangkyvadangnhap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APIdangkyvadangnhap.props",
+      "PackagePath": "buildMultiTargeting\\APIdangkyvadangnhap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APIdangkyvadangnhap.props",
+      "PackagePath": "buildTransitive\\APIdangkyvadangnhap.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
